@@ -1,6 +1,7 @@
-# HAcktify-Internship
+# Hacktify-Internship
 
-#Week-1
+# <h2>Week-1</h2>
+
 This is a beginner path to Cybersecurity.
 1. HTML Injection
    - What is HTML?
